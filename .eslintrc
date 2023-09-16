@@ -1,6 +1,8 @@
-{ 
-  "extends": "react-native-wcandillon", 
+{
+  "extends": "react-native-wcandillon",
   "rules": {
-    "@typescript-eslint/no-non-null-assertion": "off"
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "import/order": "off",
+    "prettier/prettier": "off"
   }
-} 
+}
